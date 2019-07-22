@@ -39,7 +39,7 @@ print('Hard Voting:', accuracy_score(y_test, hard_predictions))
 **Following is what you need for this book:**
 This book is for data analysts, data scientists, machine learning engineers, and other professionals who are looking to generate advanced models using ensemble techniques. Some understanding of machine learning concepts, Python programming and AWS will be beneficial.	
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
